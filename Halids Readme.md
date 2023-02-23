@@ -1,7 +1,6 @@
 # Heyy Team !!
-
-[]
-## Our Team
+ 
+## Team 1
 
 | Name  | 
 |-------|
